@@ -1,4 +1,4 @@
-Hi, my name is Felipe Cartaxo
+Felipe Cartaxo
 ===============================
 
 I'm a student focused on becoming a Back-End Developer!
