@@ -29,8 +29,17 @@
   
   <p align="left" dir="auto">
     <a href="https://www.python.org/" rel="nofollow">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" style="max-width: 100%;"></a><a href="https://www.oracle.com/java/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" style="max-width: 100%;"></a><a href="https://www.mysql.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" style="max-width: 100%;"></a><a href="https://www.postgresql.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" style="max-width: 100%;">
-      </a>
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" style="max-width: 100%;">
+    </a>
+    <a href="https://www.oracle.com/java/" rel="nofollow">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" style="max-width: 100%;">
+    </a>
+    <a href="https://www.mysql.com/" rel="nofollow">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" style="max-width: 100%;">
+    </a>
+    <a href="https://www.postgresql.org/" rel="nofollow">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" style="max-width: 100%;">
+    </a>
   </p>
   
   <h2 dir="auto">
