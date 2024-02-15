@@ -14,7 +14,7 @@
   </p>
   
   <ul dir="auto">
-    <li>📚 Currently in the 3rd semester of Systems for Internet (IFPB)</li>
+    <li>📚 Currently in the 4rd semester of Systems for Internet (IFPB)</li>
     <li>💼 Looking for an opportunity in backend development</li>
     <li>✉️&nbsp; You can contact me at 
       <a href="mailto:felipecartaxo1@gmail.com">
