@@ -10,13 +10,13 @@
   </h1>
   
   <p dir="auto">
-    I'm a student focused on becoming a Back-End Developer!
+    Estudante com foco em desenvolver aplicações em Java.
   </p>
   
   <ul dir="auto">
-    <li>📚 Currently in the 4rd semester of Systems for Internet (IFPB)</li>
-    <li>💼 Looking for an opportunity in backend development</li>
-    <li>✉️&nbsp; You can contact me at 
+    <li>📚 Atualmente cursando o 4º período de Sistemas para Internet (IFPB)</li>
+    <li>💼 À procura de oportunidades como Desenvolvedor Back-end.</li>
+    <li>✉️&nbsp;Você pode entrar em contato comigo pelo seguinte email: 
       <a href="mailto:felipecartaxo1@gmail.com">
         felipecartaxo1@gmail.com
       </a>
