@@ -15,7 +15,7 @@
   
   <ul dir="auto">
     <li>📚 Atualmente cursando o 6º período de Sistemas para Internet (IFPB)</li>
-    <li>💼 À procura de oportunidades como Desenvolvedor Back-end.</li>
+    <li>💼 Desenvolvedor Back-end.</li>
     <li>✉️&nbsp;Você pode entrar em contato comigo pelo seguinte email: 
       <a href="mailto:felipecartaxo1@gmail.com">
         felipecartaxo1@gmail.com
